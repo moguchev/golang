@@ -37,13 +37,15 @@ Useful links about go
 24. [In-depth analysis of Golang's GC scanning object implementation](https://blog.600mb.com/a?ID=01750-8ccdc0e3-5fd3-47c1-a302-88bf6c5be2fa)
 25. :movie_camera: [Как устроен garbage collector в Go 1.9](https://www.youtube.com/watch?v=CX4GSErFenI) - Андрей Дроздов, Avito
 26. :movie_camera: [Как устроена сборка мусора в Golang](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
-27. :movie_camera: [Large-Scale, Semi-Automated Go Garbage Collection Tuning at Uber](https://www.youtube.com/watch?v=vmFWSGE51w0) - Cristian Velazquez
+27. :movie_camera: [P99 Conf Logo 2022: Large-Scale, Semi-Automated Go Garbage Collection Tuning at Uber](https://www.youtube.com/watch?v=vmFWSGE51w0) - Cristian Velazquez, Uber
 28. :movie_camera: [GopherCon 2022: Control Theory and Concurrent Garbage Collection Deep Dive](https://www.youtube.com/watch?v=We-8RSk4eZA&list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) - Madhav Jivrajani
+
 
 #### Memmory 
 1. [Structure size optimization in Golang (alignment/padding). More effective memory layout (linters)](https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61) - Roman Romadin
 2. [Breaking the Type System in Golang (aka dynamic types)](https://medium.com/@utter_babbage/breaking-the-type-system-in-golang-aka-dynamic-types-8b86c35d897b) - Sidhartha Mani
 3. [Механизмы выделения памяти в Go](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
+4. :movie_camera: [Потребление оперативной памяти в языке Go: проблемы и пути решения](https://www.youtube.com/watch?v=_BbhmaZupqs) - Виталий Исаев, МойОфис
 
 #### sync.Pool
 1. [Go: понять дизайн Sync.Pool](https://dev-gang.ru/article/go-ponjat-dizain-syncpool-cpvecztx8e/)
