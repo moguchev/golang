@@ -17,7 +17,7 @@ Useful links about go
 4. [GC scanning of stacks](https://docs.google.com/document/d/1un-Jn47yByHL7I0aVIP_uVCMxjdM5mpelJhiKlIqxkE/edit#heading=h.bvezjdnoi4no) - Google
 5. [Go Blog - Go GC: Prioritizing low latency and simplicity](https://go.dev/blog/go15gc) - Richard Hudson
 6. [Go Blog - Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote) - Richard Hudson
-7. [Go GC: Solving the Latency Problem](https://www.youtube.com/watch?v=aiv1JOfMjm0&list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm&index=17) - Rick Hudson
+7. :movie_camera: [Go GC: Solving the Latency Problem](https://www.youtube.com/watch?v=aiv1JOfMjm0&list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm&index=17) - Rick Hudson
 8. [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/) - Will Sewell
 9. [Concurrent garbage collection](https://github.com/rubinius/rubinius-website-archive/blob/cf54187d421275eec7d2db0abd5d4c059755b577/_posts/2013-06-22-concurrent-garbage-collection.markdown) - Dirkjan Bussink
 10. [Why golang garbage-collector not implement Generational and Compact GC?](https://groups.google.com/g/golang-nuts/c/KJiyv2mV2pU)
@@ -35,8 +35,9 @@ Useful links about go
 22. [Предотвращаем утечки памяти в Go, ч. 2. Ошибки бизнес-логики](https://habr.com/ru/company/ncloudtech/blog/676960/) - Виталий Исаев
 23. [Анализ механизма сбора мусора Go](https://russianblogs.com/article/3396205378/)
 24. [In-depth analysis of Golang's GC scanning object implementation](https://blog.600mb.com/a?ID=01750-8ccdc0e3-5fd3-47c1-a302-88bf6c5be2fa)
-25. [Как устроен garbage collector в Go 1.9](https://www.youtube.com/watch?v=CX4GSErFenI) - Андрей Дроздов, Avito
-26. [Как устроена сборка мусора в Golang](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
+25. :movie_camera: [Как устроен garbage collector в Go 1.9](https://www.youtube.com/watch?v=CX4GSErFenI) - Андрей Дроздов, Avito
+26. :movie_camera: [Как устроена сборка мусора в Golang](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
+27. :movie_camera: [Large-Scale, Semi-Automated Go Garbage Collection Tuning at Uber](https://www.youtube.com/watch?v=vmFWSGE51w0) - Cristian Velazquez
 
 #### Memmory 
 1. [Structure size optimization in Golang (alignment/padding). More effective memory layout (linters)](https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61) - Roman Romadin
