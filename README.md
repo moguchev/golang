@@ -10,7 +10,7 @@ Useful links about go
 2. [Tracing Garbage Collection](https://en.wikipedia.org/wiki/Tracing_garbage_collection) - Wikipedia
 3. [On-the-Fly Garbage Collection: An Exercise in Cooperation ](https://lamport.azurewebsites.net/pubs/garbage.pdf) - Edsger W. Dijkstra
 
-#### Go
+#### Go GC
 1. [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
 2. [runtime/mgc.go](https://github.com/golang/go/blob/dev.boringcrypto.go1.17/src/runtime/mgc.go#L5)
 3. [Go 1.5 concurrent garbage collector pacing](https://docs.google.com/document/d/1wmjrocXIWTr1JxU-3EQBI6BK6KgtiFArkG47XK73xIQ/edit#heading=h.xy314pvxblbm) - Google
@@ -38,14 +38,15 @@ Useful links about go
 25. :movie_camera: [Как устроен garbage collector в Go 1.9](https://www.youtube.com/watch?v=CX4GSErFenI) - Андрей Дроздов, Avito
 26. :movie_camera: [Как устроена сборка мусора в Golang](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
 27. :movie_camera: [P99 Conf Logo 2022: Large-Scale, Semi-Automated Go Garbage Collection Tuning at Uber](https://www.youtube.com/watch?v=vmFWSGE51w0) - Cristian Velazquez, Uber
-28. :movie_camera: [GopherCon 2022: Control Theory and Concurrent Garbage Collection Deep Dive](https://www.youtube.com/watch?v=We-8RSk4eZA&list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) - Madhav Jivrajani
-
+28. :movie_camera: [GopherCon 2019: The garbage collector](https://www.youtube.com/watch?v=gPxFOMuhnUU) - Maya Rosecrance
+29. :movie_camera: [GopherCon 2022: Control Theory and Concurrent Garbage Collection Deep Dive](https://www.youtube.com/watch?v=We-8RSk4eZA&list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) - Madhav Jivrajani
 
 #### Memmory 
 1. [Structure size optimization in Golang (alignment/padding). More effective memory layout (linters)](https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61) - Roman Romadin
 2. [Breaking the Type System in Golang (aka dynamic types)](https://medium.com/@utter_babbage/breaking-the-type-system-in-golang-aka-dynamic-types-8b86c35d897b) - Sidhartha Mani
 3. [Механизмы выделения памяти в Go](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
 4. :movie_camera: [Потребление оперативной памяти в языке Go: проблемы и пути решения](https://www.youtube.com/watch?v=_BbhmaZupqs) - Виталий Исаев, МойОфис
+5. :movie_camera: [GopherCon UK 2018: Understanding Go's Memory Allocator](https://www.youtube.com/results?search_query=go+garbage+collector) - Andre Carvalho
 
 #### sync.Pool
 1. [Go: понять дизайн Sync.Pool](https://dev-gang.ru/article/go-ponjat-dizain-syncpool-cpvecztx8e/)
