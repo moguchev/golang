@@ -8,7 +8,7 @@ Useful links about go
 #### Common
 1. [Visualizing Garbage Collection Algorithms](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/) - Ken Fox
 2. [Tracing Garbage Collection](https://en.wikipedia.org/wiki/Tracing_garbage_collection) - Wikipedia
-3. [On-the-Fly Garbage Collection: An Exercise in Cooperation ](https://lamport.azurewebsites.net/pubs/garbage.pdf) - Edsger W. Dijkstra
+3. [On-the-Fly Garbage Collection: An Exercise in Cooperation](https://lamport.azurewebsites.net/pubs/garbage.pdf) - Edsger W. Dijkstra
 
 #### Go GC
 1. [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
@@ -41,6 +41,7 @@ Useful links about go
 28. :movie_camera: [GopherCon 2019: The garbage collector](https://www.youtube.com/watch?v=gPxFOMuhnUU) - Maya Rosecrance
 29. :movie_camera: [GopherCon 2022: Control Theory and Concurrent Garbage Collection Deep Dive](https://www.youtube.com/watch?v=We-8RSk4eZA&list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) - Madhav Jivrajani
 30. :movie_camera: [GopherCon Singapore 2019: Garbage Collection Semantics](https://www.youtube.com/watch?v=q4HoWwdZUHs) - William Kennedy
+31. :movie_camera: [Ozon Go Meetup Moscow 2022](https://www.youtube.com/watch?v=PB4vA5eId4c) - Moguchev Leonid
 
 #### Memmory 
 1. [Structure size optimization in Golang (alignment/padding). More effective memory layout (linters)](https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61) - Roman Romadin
