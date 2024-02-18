@@ -10,6 +10,15 @@ Useful links about go
 2. [Tracing Garbage Collection](https://en.wikipedia.org/wiki/Tracing_garbage_collection) - Wikipedia
 3. [On-the-Fly Garbage Collection: An Exercise in Cooperation](https://lamport.azurewebsites.net/pubs/garbage.pdf) - Edsger W. Dijkstra
 
+#### The Golang Scheduler
+1. [The Golang Scheduler](https://www.kelche.co/blog/go/golang-scheduling/) - Kevin Kelche
+1. [Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html) - William Kennedy
+1. [Scheduling In Go : Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html) - William Kennedy 
+1. [Scheduling In Go : Part III - Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html) - William Kennedy
+1. [Планирование в Go: Часть I — Планировщик ОС](https://habr.com/ru/articles/478168/) - William Kennedy (перевод)
+1. [Планирование в Go: Часть II — Планировщик Go](https://habr.com/ru/articles/489862/) - William Kennedy (перевод)
+1. [Планирование в Go: Часть III — Конкурентность](https://habr.com/ru/articles/761606/) - William Kennedy (перевод)
+
 #### Go GC
 1. [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
 2. [runtime/mgc.go](https://github.com/golang/go/blob/dev.boringcrypto.go1.17/src/runtime/mgc.go#L5)
