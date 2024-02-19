@@ -18,6 +18,8 @@ Useful links about go
 1. [Планирование в Go: Часть I — Планировщик ОС](https://habr.com/ru/articles/478168/) - William Kennedy (перевод)
 1. [Планирование в Go: Часть II — Планировщик Go](https://habr.com/ru/articles/489862/) - William Kennedy (перевод)
 1. [Планирование в Go: Часть III — Конкурентность](https://habr.com/ru/articles/761606/) - William Kennedy (перевод)
+1. [Understanding the Go Scheduler and discovering how it works](https://medium.com/@sanilkhurana7/understanding-the-go-scheduler-and-looking-at-how-it-works-e431a6daacf) - Sanil Khurana
+1. [Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k) - Dmitry Vyukov
 
 #### Go GC
 1. [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
