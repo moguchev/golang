@@ -19,7 +19,8 @@ Useful links about go
 1. [Планирование в Go: Часть II — Планировщик Go](https://habr.com/ru/articles/489862/) - William Kennedy (перевод)
 1. [Планирование в Go: Часть III — Конкурентность](https://habr.com/ru/articles/761606/) - William Kennedy (перевод)
 1. [Understanding the Go Scheduler and discovering how it works](https://medium.com/@sanilkhurana7/understanding-the-go-scheduler-and-looking-at-how-it-works-e431a6daacf) - Sanil Khurana
-1. [Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k) - Dmitry Vyukov
+1. :movie_camera: [Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k) - Dmitry Vyukov
+1. :movie_camera: [Планировщик Go](https://www.youtube.com/watch?v=TRoFIaHdjB8) - ТиПМС 9
 
 #### Go GC
 1. [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
@@ -64,3 +65,13 @@ Useful links about go
 #### sync.Pool
 1. [Go: понять дизайн Sync.Pool](https://dev-gang.ru/article/go-ponjat-dizain-syncpool-cpvecztx8e/)
 2. [Using sync.Pool](https://developer20.com/using-sync-pool/)
+
+#### Channels
+1. :movie_camera: [Go Channels Internals](https://www.youtube.com/watch?v=Tp5xhTMFuLU) - Егор Гришечко
+1. :movie_camera: [Как на самом деле устроены каналы в Golang](https://www.youtube.com/watch?v=ZTJcaP4G4JM) - Николай Тузов
+1. :movie_camera: [Внутреннее устройство каналов в Go](https://www.youtube.com/watch?v=ZTJcaP4G4JM) - Николай Тузов
+
+
+#### Maps
+1. :movie_camera: [Как на самом деле устроен тип Map в Golang?]([https://www.youtube.com/watch?v=P_SXTUiA-9Y](https://www.youtube.com/watch?v=P_SXTUiA-9Y)) - Николай Тузов
+1. :movie_camera: [Go Map Internals](https://www.youtube.com/watch?v=3n1QkOI-y2g) - Егор Гришечко
