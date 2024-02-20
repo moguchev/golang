@@ -3,14 +3,13 @@ Useful links about go
 
 ## Runtime
 
-### Garbage Collection (GC)
-
-#### Common
+### Common
 1. [Visualizing Garbage Collection Algorithms](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/) - Ken Fox
 2. [Tracing Garbage Collection](https://en.wikipedia.org/wiki/Tracing_garbage_collection) - Wikipedia
 3. [On-the-Fly Garbage Collection: An Exercise in Cooperation](https://lamport.azurewebsites.net/pubs/garbage.pdf) - Edsger W. Dijkstra
+---
 
-#### The Golang Scheduler
+### The Golang Scheduler
 1. [The Golang Scheduler](https://www.kelche.co/blog/go/golang-scheduling/) - Kevin Kelche
 1. [Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html) - William Kennedy
 1. [Scheduling In Go : Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html) - William Kennedy 
@@ -21,8 +20,9 @@ Useful links about go
 1. [Understanding the Go Scheduler and discovering how it works](https://medium.com/@sanilkhurana7/understanding-the-go-scheduler-and-looking-at-how-it-works-e431a6daacf) - Sanil Khurana
 1. :movie_camera: [Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k) - Dmitry Vyukov
 1. :movie_camera: [Планировщик Go](https://www.youtube.com/watch?v=TRoFIaHdjB8) - ТиПМС 9
+---
 
-#### Go GC
+### Go GC
 1. [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
 2. [runtime/mgc.go](https://github.com/golang/go/blob/dev.boringcrypto.go1.17/src/runtime/mgc.go#L5)
 3. [Go 1.5 concurrent garbage collector pacing](https://docs.google.com/document/d/1wmjrocXIWTr1JxU-3EQBI6BK6KgtiFArkG47XK73xIQ/edit#heading=h.xy314pvxblbm) - Google
@@ -54,23 +54,26 @@ Useful links about go
 29. :movie_camera: [GopherCon 2022: Control Theory and Concurrent Garbage Collection Deep Dive](https://www.youtube.com/watch?v=We-8RSk4eZA&list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) - Madhav Jivrajani
 30. :movie_camera: [GopherCon Singapore 2019: Garbage Collection Semantics](https://www.youtube.com/watch?v=q4HoWwdZUHs) - William Kennedy
 31. :movie_camera: [Ozon Go Meetup Moscow 2022](https://www.youtube.com/watch?v=PB4vA5eId4c) - Moguchev Leonid
+---
 
-#### Memmory 
+### Memmory 
 1. [Structure size optimization in Golang (alignment/padding). More effective memory layout (linters)](https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61) - Roman Romadin
 2. [Breaking the Type System in Golang (aka dynamic types)](https://medium.com/@utter_babbage/breaking-the-type-system-in-golang-aka-dynamic-types-8b86c35d897b) - Sidhartha Mani
 3. [Механизмы выделения памяти в Go](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
 4. :movie_camera: [Потребление оперативной памяти в языке Go: проблемы и пути решения](https://www.youtube.com/watch?v=_BbhmaZupqs) - Виталий Исаев, МойОфис
 5. :movie_camera: [GopherCon UK 2018: Understanding Go's Memory Allocator](https://www.youtube.com/results?search_query=go+garbage+collector) - Andre Carvalho
+---
 
-#### sync.Pool
+### sync.Pool
 1. [Go: понять дизайн Sync.Pool](https://dev-gang.ru/article/go-ponjat-dizain-syncpool-cpvecztx8e/)
 2. [Using sync.Pool](https://developer20.com/using-sync-pool/)
+---
 
-#### Channels
+### Channels
 1. :movie_camera: [Go Channels Internals](https://www.youtube.com/watch?v=Tp5xhTMFuLU) - Егор Гришечко
 1. :movie_camera: [Как на самом деле устроены каналы в Golang](https://www.youtube.com/watch?v=ZTJcaP4G4JM) - Николай Тузов
 1. :movie_camera: [Внутреннее устройство каналов в Go](https://www.youtube.com/watch?v=ZTJcaP4G4JM) - Николай Тузов
-
+---
 
 #### Maps
 1. :movie_camera: [Как на самом деле устроен тип Map в Golang?]([https://www.youtube.com/watch?v=P_SXTUiA-9Y](https://www.youtube.com/watch?v=P_SXTUiA-9Y)) - Николай Тузов
