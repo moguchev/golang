@@ -1,3 +1,7 @@
+<div id="logo" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="200px"/>
+</div>
+
 # golang
 Useful links about go
 
