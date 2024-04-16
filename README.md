@@ -81,5 +81,5 @@ Useful links about go
 ---
 
 ### Maps
-1. :movie_camera: [Как на самом деле устроен тип Map в Golang?]([https://www.youtube.com/watch?v=P_SXTUiA-9Y](https://www.youtube.com/watch?v=P_SXTUiA-9Y)) - Николай Тузов
+1. :movie_camera: [Как на самом деле устроен тип Map в Golang?]([https://www.youtube.com/watch?v=P_SXTUiA-9Y](https://www.youtube.com/watch?v=P_SXTUiA-9Y) - Николай Тузов
 1. :movie_camera: [Go Map Internals](https://www.youtube.com/watch?v=3n1QkOI-y2g) - Егор Гришечко
