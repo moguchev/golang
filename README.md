@@ -24,6 +24,7 @@ Useful links about go
 1. [Understanding the Go Scheduler and discovering how it works](https://medium.com/@sanilkhurana7/understanding-the-go-scheduler-and-looking-at-how-it-works-e431a6daacf) - Sanil Khurana
 1. :movie_camera: [Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k) - Dmitry Vyukov
 1. :movie_camera: [Планировщик Go](https://www.youtube.com/watch?v=TRoFIaHdjB8) - ТиПМС 9
+1. 🎥 [Внутреннее устройство планировщика Go](https://youtu.be/P2Tzdg8n9hw?si=uRX7SnONEY58jXgf) - Владимир Балун
 ---
 
 ### Go GC
@@ -58,6 +59,7 @@ Useful links about go
 29. :movie_camera: [GopherCon 2022: Control Theory and Concurrent Garbage Collection Deep Dive](https://www.youtube.com/watch?v=We-8RSk4eZA&list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) - Madhav Jivrajani
 30. :movie_camera: [GopherCon Singapore 2019: Garbage Collection Semantics](https://www.youtube.com/watch?v=q4HoWwdZUHs) - William Kennedy
 31. :movie_camera: [Ozon Go Meetup Moscow 2022](https://www.youtube.com/watch?v=PB4vA5eId4c) - Moguchev Leonid
+32. [[Golang] Garbage Collection in General](https://blog.devgenius.io/golang-garbage-collection-in-general-c28ae82558c4) - Satyajit Roy
 ---
 
 ### Memmory 
@@ -67,6 +69,11 @@ Useful links about go
 4. :movie_camera: [Потребление оперативной памяти в языке Go: проблемы и пути решения](https://www.youtube.com/watch?v=_BbhmaZupqs) - Виталий Исаев, МойОфис
 5. :movie_camera: [GopherCon UK 2018: Understanding Go's Memory Allocator](https://www.youtube.com/results?search_query=go+garbage+collector) - Andre Carvalho
 6. :movie_camera: [Memory Management in Go: The good, the bad and the ugly. GopherCon UK 2023](https://youtu.be/SKenR18NM04?si=G5Ae7OSH9WuO8PDu) - Liam Hampton
+7. [Go To Memory](https://habr.com/ru/companies/oleg-bunin/articles/676332/) - Антон @Adeon
+---
+
+### Atomics
+1. [Атомики в Go: особенности внутренней реализации](https://habr.com/ru/articles/744822/) - Евгений Михалев
 ---
 
 ### sync.Pool
@@ -83,3 +90,6 @@ Useful links about go
 ### Maps
 1. :movie_camera: [Как на самом деле устроен тип Map в Golang?](https://www.youtube.com/watch?v=P_SXTUiA-9Y)- Николай Тузов
 1. :movie_camera: [Go Map Internals](https://www.youtube.com/watch?v=3n1QkOI-y2g) - Егор Гришечко
+1. [Мапы в Go: уровень Pro](https://habr.com/ru/companies/avito/articles/774618/) - Павел Комаров
+1. [Hashmap(map) по версии Golang вместе с реализацией на дженериках](https://habr.com/ru/articles/704796/) - Sergei Makarov
+
