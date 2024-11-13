@@ -78,7 +78,8 @@ Useful links about go
 
 ### sync.Pool
 1. [Go: понять дизайн Sync.Pool](https://dev-gang.ru/article/go-ponjat-dizain-syncpool-cpvecztx8e/)
-2. [Using sync.Pool](https://developer20.com/using-sync-pool/)
+1. [Using sync.Pool](https://developer20.com/using-sync-pool/)
+1. [Go sync.Pool and the Mechanics Behind It](https://victoriametrics.com/blog/go-sync-pool/index.html)
 ---
 
 ### Channels
@@ -92,4 +93,9 @@ Useful links about go
 1. :movie_camera: [Go Map Internals](https://www.youtube.com/watch?v=3n1QkOI-y2g) - Егор Гришечко
 1. [Мапы в Go: уровень Pro](https://habr.com/ru/companies/avito/articles/774618/) - Павел Комаров
 1. [Hashmap(map) по версии Golang вместе с реализацией на дженериках](https://habr.com/ru/articles/704796/) - Sergei Makarov
+1. [Hashmap(map) по версии Golang. Часть 2](https://habr.com/ru/articles/717724/) - Sergei Makarov
+---
+
+### Slices
+1. [Slices in Go: Grow Big or Go Home](https://victoriametrics.com/blog/go-slice/)
 
