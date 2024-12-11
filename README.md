@@ -68,7 +68,7 @@ Useful links about go
 1. [Механизмы выделения памяти в Go](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
 1. :movie_camera: [Потребление оперативной памяти в языке Go: проблемы и пути решения](https://www.youtube.com/watch?v=_BbhmaZupqs) - Виталий Исаев, МойОфис
 1. :movie_camera: [GopherCon UK 2018: Understanding Go's Memory Allocator](https://www.youtube.com/results?search_query=go+garbage+collector) - Andre Carvalho
-1. :movie_camera: [Memory Management in Go: The good, the bad and the ugly. GopherCon UK 2023](https://youtu.be/SKenR18NM04?si=G5Ae7OSH9WuO8PDu) - Liam Hampton
+1. :movie_camera: [Memory Management in Go: The good, the bad and the ugly. GopherCon UK 2023](https://youtu.be/3CR4UNMK_Is?si=jUSg255KbIK5tnsp) - Liam Hampton
 1. [Go To Memory](https://habr.com/ru/companies/oleg-bunin/articles/676332/) - Антон @Adeon
 1. [Go Memory Management](https://povilasv.me/go-memory-management/) - Povilas
 ---
