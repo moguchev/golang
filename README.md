@@ -64,12 +64,13 @@ Useful links about go
 
 ### Memmory 
 1. [Structure size optimization in Golang (alignment/padding). More effective memory layout (linters)](https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61) - Roman Romadin
-2. [Breaking the Type System in Golang (aka dynamic types)](https://medium.com/@utter_babbage/breaking-the-type-system-in-golang-aka-dynamic-types-8b86c35d897b) - Sidhartha Mani
-3. [Механизмы выделения памяти в Go](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
-4. :movie_camera: [Потребление оперативной памяти в языке Go: проблемы и пути решения](https://www.youtube.com/watch?v=_BbhmaZupqs) - Виталий Исаев, МойОфис
-5. :movie_camera: [GopherCon UK 2018: Understanding Go's Memory Allocator](https://www.youtube.com/results?search_query=go+garbage+collector) - Andre Carvalho
-6. :movie_camera: [Memory Management in Go: The good, the bad and the ugly. GopherCon UK 2023](https://youtu.be/SKenR18NM04?si=G5Ae7OSH9WuO8PDu) - Liam Hampton
-7. [Go To Memory](https://habr.com/ru/companies/oleg-bunin/articles/676332/) - Антон @Adeon
+1. [Breaking the Type System in Golang (aka dynamic types)](https://medium.com/@utter_babbage/breaking-the-type-system-in-golang-aka-dynamic-types-8b86c35d897b) - Sidhartha Mani
+1. [Механизмы выделения памяти в Go](https://www.youtube.com/watch?v=CX4GSErFenI) - Дмитрий Кривенко
+1. :movie_camera: [Потребление оперативной памяти в языке Go: проблемы и пути решения](https://www.youtube.com/watch?v=_BbhmaZupqs) - Виталий Исаев, МойОфис
+1. :movie_camera: [GopherCon UK 2018: Understanding Go's Memory Allocator](https://www.youtube.com/results?search_query=go+garbage+collector) - Andre Carvalho
+1. :movie_camera: [Memory Management in Go: The good, the bad and the ugly. GopherCon UK 2023](https://youtu.be/SKenR18NM04?si=G5Ae7OSH9WuO8PDu) - Liam Hampton
+1. [Go To Memory](https://habr.com/ru/companies/oleg-bunin/articles/676332/) - Антон @Adeon
+1. [Go Memory Management](https://povilasv.me/go-memory-management/) - Povilas
 ---
 
 ### Atomics
