@@ -59,7 +59,8 @@ Useful links about go
 29. :movie_camera: [GopherCon 2022: Control Theory and Concurrent Garbage Collection Deep Dive](https://www.youtube.com/watch?v=We-8RSk4eZA&list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) - Madhav Jivrajani
 30. :movie_camera: [GopherCon Singapore 2019: Garbage Collection Semantics](https://www.youtube.com/watch?v=q4HoWwdZUHs) - William Kennedy
 31. :movie_camera: [Ozon Go Meetup Moscow 2022](https://www.youtube.com/watch?v=PB4vA5eId4c) - Moguchev Leonid
-32. [[Golang] Garbage Collection in General](https://blog.devgenius.io/golang-garbage-collection-in-general-c28ae82558c4) - Satyajit Roy
+32. [Golang Garbage Collection in General](https://blog.devgenius.io/golang-garbage-collection-in-general-c28ae82558c4) - Satyajit Roy
+33. [Go1.26 The Green Tea Garbage Collector](https://go.dev/blog/greenteagc) - go.dev
 ---
 
 ### Memmory 
