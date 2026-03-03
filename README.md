@@ -72,6 +72,7 @@ Useful links about go
 1. :movie_camera: [Memory Management in Go: The good, the bad and the ugly. GopherCon UK 2023](https://youtu.be/3CR4UNMK_Is?si=jUSg255KbIK5tnsp) - Liam Hampton
 1. [Go To Memory](https://habr.com/ru/companies/oleg-bunin/articles/676332/) - Антон @Adeon
 1. [Go Memory Management](https://povilasv.me/go-memory-management/) - Povilas
+1. [Memory Allocation in Go](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html)
 ---
 
 ### Atomics
